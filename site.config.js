@@ -8,20 +8,20 @@ module.exports = {
 
   // basic site info (required)
   name: 'ethereal的博客',
-  domain: 'szufrank.top',
+  domain: 'https://nlp.blogethereal.top',
   author: 'Ethereal',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
-  socialImageTitle: '菜饼同学',
+  description: '热爱NLP & LLM',
+  socialImageTitle: 'ethereal',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: null,
   github: 'frankcbliu',
-  wechatPublicName: '菜饼不菜',
-  wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
-  notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
+  wechatPublicName: 'ethereal',
+  wechatPublicURL: '',
+  notionPublic: 'https://nlp.blogethereal.top/',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
